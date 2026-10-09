@@ -88,6 +88,14 @@ Le second alinéa énonce trois limites impératives. D'abord, la règle ne peut
 
 La disposition combine ainsi une règle favorable au prestataire, qui n'a en principe à connaître que sa propre loi, et des garde-fous protégeant les intérêts jugés essentiels : consommateur, immeubles, assurance. La première limite est la plus importante en pratique : un commerçant établi dans un autre Etat membre et vendant à des consommateurs résidant en France ne peut écarter les dispositions impératives françaises du droit des contrats de consommation. Les réserves de l'article 16, II, s'ajoutent à ces limites.
 
+### Article 18
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2014-03-19 par LOI n°2014-344 du 17 mars 2014 - art. 78)
+
+L'article 18 se situait au chapitre Ier du titre II (principes généraux du commerce électronique), entre l'article 17, qui soumet l'activité à la loi de l'Etat membre d'établissement, et l'article 19, relatif aux obligations d'information. Selon la source, il est abrogé à compter du 19 mars 2014 par l'article 78 de la loi n° 2014-344 du 17 mars 2014 ; son contenu n'est pas reproduit.
+
 ### Article 19
 
 **Texte de la disposition:**
@@ -132,6 +140,22 @@ La règle vise toutes les formes de publicité en ligne (bannières, contenus sp
 
 Le second alinéa réserve l'application des dispositions réprimant les pratiques commerciales trompeuses (article L. 121-1 du code de la consommation). Les deux régimes se cumulent : un message publicitaire non identifié comme tel méconnaît l'article 20 et peut, en outre, constituer une pratique commerciale trompeuse s'il en réunit les éléments.
 
+### Article 21
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code de la consommation - art. L121-15-1 (V)
+>
+> Crée : Code de la consommation - art. L121-15-2 (V)
+>
+> Crée : Code de la consommation - art. L121-15-3 (V)
+
+L'article 21, placé au chapitre II du titre II (publicité par voie électronique), a créé selon la source les articles L. 121-15-1, L. 121-15-2 et L. 121-15-3 du code de la consommation, signalés comme en vigueur (« (V) »). Il complète l'article 20, qui exige que toute publicité accessible par un service de communication au public en ligne soit clairement identifiable, en insérant des règles corrélatives dans le code de la consommation.
+
+L'article est purement créateur : la base LEGI ne lui attribue pas de période de vigueur, et les règles qu'il a introduites doivent être recherchées dans le code de la consommation, dans sa numérotation et sa rédaction actuelles.
+
 ### Article 22
 
 **Texte de la disposition:**
@@ -148,7 +172,47 @@ Le III est une disposition transitoire. Il concernait les personnes dont les coo
 
 La règle traduit le passage à un régime de consentement préalable (« opt-in ») : le silence vaut refus, et non acceptation. Le délai de six mois étant écoulé depuis longtemps, la disposition a épuisé ses effets transitoires ; elle conserve toutefois une portée pour apprécier la licéité d'utilisations de fichiers anciens, puisque la présomption de refus continue de s'appliquer aux personnes qui n'ont pas consenti dans le délai.
 
+### Article 23
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code de la consommation - art. L121-20-4 (M)
+
+L'article 23 a modifié, selon la source, l'article L. 121-20-4 du code de la consommation, signalé comme modifié depuis (« (M) »). Article de coordination du chapitre II du titre II (publicité par voie électronique), il n'a pas de contenu normatif autonome dans la version consolidée ; la règle résultante figure dans le code de la consommation.
+
+### Article 24
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code de la consommation - art. L121-27 (V)
+
+L'article 24 a modifié, selon la source, l'article L. 121-27 du code de la consommation, signalé comme en vigueur (« (V) »). Comme l'article 23, il relève du chapitre II du titre II et n'a pas de période de vigueur propre ; il est reproduit pour la complétude de la numérotation.
+
 #### CHAPITRE III — Les obligations souscrites sous forme électronique
+
+### Article 25
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code civil - art. 1108-1 (Ab)
+>
+> Crée : Code civil - art. 1108-2 (Ab)
+>
+> Crée : Code civil - art. 1369-1 (M)
+>
+> Crée : Code civil - art. 1369-2 (M)
+>
+> Crée : Code civil - art. 1369-3 (M)
+
+L'article 25 ouvre le chapitre III du titre II, consacré aux obligations souscrites sous forme électronique. Selon la source, il a créé les articles 1108-1, 1108-2, 1369-1, 1369-2 et 1369-3 du code civil ; les deux premiers sont aujourd'hui signalés comme abrogés (« (Ab) ») et les trois autres comme modifiés depuis (« (M) »).
+
+L'article a ainsi introduit dans le code civil des règles relevant de l'objet du chapitre — les obligations souscrites sous forme électronique —, dont plusieurs ont depuis été abrogées ou modifiées. Il n'a pas de période de vigueur propre dans la base LEGI ; le droit applicable doit être recherché dans le code civil dans sa rédaction en vigueur. L'article 26, qui suit, autorise le Gouvernement à procéder par ordonnance, dans les conditions de l'article 38 de la Constitution, à l'adaptation de dispositions législatives.
 
 ### Article 26
 
@@ -165,6 +229,24 @@ L'article 26 constitue l'unique article du chapitre III relatif aux obligations 
 Les deuxième et troisième alinéas fixent les délais propres à toute habilitation : l'ordonnance devait être prise dans l'année suivant la publication de la loi, et un projet de loi de ratification devait être déposé dans les six mois de la publication de l'ordonnance. Le texte de l'ordonnance n'est pas reproduit dans la source et n'est pas commenté ici.
 
 La disposition a épuisé ses effets : les délais d'habilitation étant expirés, elle ne peut plus fonder de nouvelle ordonnance. Elle conserve un intérêt historique et systématique, en ce qu'elle révèle le choix du législateur de traiter l'équivalence entre formalités papier et électroniques à la fois dans le code civil (auquel renvoie l'article 1108-1 cité) et par adaptation des régimes spéciaux. La référence à l'article 1108-1 du code civil est celle du texte d'origine, que l'interprète doit rapprocher de la numérotation actuelle du code.
+
+### Article 27
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code de la consommation - art. L134-2 (VT)
+
+L'article 27, également placé au chapitre III du titre II, a créé selon la source l'article L. 134-2 du code de la consommation, signalé comme en vigueur avec terme (« (VT) »). Article purement créateur, il n'a pas de contenu normatif autonome dans la version consolidée ; la règle introduite figure dans le code de la consommation.
+
+### Article 28
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2011-05-19 par LOI n°2011-525 du 17 mai 2011 - art. 145)
+
+L'article 28 clôturait le chapitre III du titre II (obligations souscrites sous forme électronique). Selon la source, il est abrogé à compter du 19 mai 2011 par l'article 145 de la loi n° 2011-525 du 17 mai 2011 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Le titre III, consacré à la sécurité dans l'économie numérique, s'ouvre ensuite avec l'article 29.
 
 #### TITRE III — DE LA SÉCURITÉ DANS L'ÉCONOMIE NUMÉRIQUE
 
@@ -356,6 +438,28 @@ La saisie des moyens de cryptologie obéit à un régime plus protecteur : elle 
 
 Le dernier alinéa punit de six mois d'emprisonnement et de 7 500 euros d'amende l'obstacle aux enquêtes et le refus de fournir les informations ou documents. Le NOTA de la source précise la date d'entrée en vigueur de la rédaction actuelle. La comparaison avec l'article 9-1, qui organise les inspections de l'Arcom avec un contrôle du juge des libertés et de la détention, montre une même préoccupation d'encadrement judiciaire des pouvoirs d'enquête administratifs.
 
+### Article 37
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code pénal - art. 132-79 (V)
+
+L'article 37 clôt la section 4 du chapitre Ier du titre III (dispositions de droit pénal relatives à la cryptologie). Selon la source, il a créé l'article 132-79 du code pénal, signalé comme en vigueur (« (V) »). Il s'inscrit, dans la section consacrée aux dispositions de droit pénal, à la suite des articles 35 et 36 ; il est purement créateur et n'a pas de période de vigueur propre dans la base LEGI.
+
+#### Section 5 — Saisine des moyens de l'Etat pour la mise au clair de données chiffrées
+
+### Article 38
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 230-1 (M)
+
+L'article 38 forme à lui seul la section 5 du chapitre Ier du titre III, intitulée « Saisine des moyens de l'Etat pour la mise au clair de données chiffrées ». Selon la source, il a modifié l'article 230-1 du code de procédure pénale, signalé comme modifié depuis (« (M) »). La procédure correspondante est donc régie par le code de procédure pénale ; l'article 38 n'a pas de contenu normatif autonome dans la version consolidée.
+
 #### Section 6 — Dispositions diverses
 
 ### Article 39
@@ -382,7 +486,105 @@ Le II assure la continuité des situations juridiques nées sous l'empire de l'a
 
 Cette seconde règle évite que ces organismes, qui exerçaient une activité de prestation de cryptologie au sens de l'article 29, se trouvent en infraction au regard de l'article 35, III, faute de déclaration. Elle est limitée « pour ces moyens » : la fourniture de prestations portant sur d'autres moyens exige une déclaration nouvelle.
 
+#### CHAPITRE II — Lutte contre la cybercriminalité
+
+### Article 41
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 56 (M)
+
+L'article 41 ouvre le chapitre II du titre III, consacré à la lutte contre la cybercriminalité, dont tous les articles (41 à 46) sont purement modificatifs. Selon la source, il a modifié l'article 56 du code de procédure pénale (« (M) »). Le chapitre II n'a donc pas de règle autonome : il a adapté le code pénal et le code de procédure pénale, qu'il faut consulter dans leur rédaction en vigueur.
+
+### Article 42
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 94 (V)
+
+L'article 42 a modifié, selon la source, l'article 94 du code de procédure pénale, signalé comme en vigueur (« (V) »). Il appartient au chapitre II du titre III (lutte contre la cybercriminalité) et n'a pas de période de vigueur propre dans la base LEGI.
+
+### Article 43
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 97 (M)
+
+L'article 43 a modifié, selon la source, l'article 97 du code de procédure pénale (« (M) »). Comme les articles 41 et 42, il adapte la procédure pénale dans le cadre du chapitre consacré à la lutte contre la cybercriminalité ; il n'a pas de contenu normatif autonome dans la version consolidée.
+
+### Article 44
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code pénal - art. 227-23 (M)
+
+L'article 44 a modifié, selon la source, l'article 227-23 du code pénal, signalé comme modifié depuis (« (M) »). Il appartient au chapitre II du titre III (lutte contre la cybercriminalité) ; purement modificatif, il ne régit par lui-même aucune situation et la règle résultante figure dans le code pénal.
+
+### Article 45
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code pénal - art. 323-1 (V)
+>
+> Modifie : Code pénal - art. 323-2 (V)
+>
+> Modifie : Code pénal - art. 323-3 (V)
+
+L'article 45 a modifié, selon la source, les articles 323-1, 323-2 et 323-3 du code pénal, tous signalés comme en vigueur (« (V) »). L'article 323-1 du code pénal figure également parmi les infractions visées par l'article 12 de la loi pour justifier les mesures contre les services frauduleux. L'article 45 est purement modificatif et n'a pas de période de vigueur propre dans la base LEGI.
+
+### Article 46
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code pénal - art. 323-3-1 (V)
+>
+> Modifie : Code pénal - art. 323-4 (V)
+>
+> Modifie : Code pénal - art. 323-7 (V)
+
+L'article 46 a créé, selon la source, l'article 323-3-1 du code pénal et modifié les articles 323-4 et 323-7 du même code, tous signalés comme en vigueur (« (V) »). Il complète l'article 45 dans la même série d'articles du code pénal et clôt le chapitre II du titre III ; il n'a pas de contenu normatif autonome dans la version consolidée.
+
 #### TITRE IV — DES SYSTEMES SATELLITAIRES
+
+### Article 47
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code des postes et des communications électronique - art. L32 (M)
+
+L'article 47, placé au titre IV (« Des systèmes satellitaires »), a modifié selon la source l'article L. 32 du code des postes et des communications électroniques, signalé comme modifié depuis (« (M) »). Il est purement modificatif et n'a pas de période de vigueur propre ; le titre IV conserve en revanche l'article 49, disposition autonome relative aux demandes d'assignation de fréquences.
+
+### Article 48
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code des postes et des communications électronique - art. L97-1 (T)
+>
+> Crée : Code des postes et des communications électronique - art. L97-2 (M)
+>
+> Crée : Code des postes et des communications électronique - art. L97-3 (M)
+>
+> Crée : Code des postes et des communications électronique - art. L97-4 (V)
+
+L'article 48 relève également du titre IV (systèmes satellitaires). Selon la source, il a modifié l'article L. 97-1 du code des postes et des communications électroniques, depuis transféré (« (T) »), et créé les articles L. 97-2, L. 97-3 et L. 97-4 du même code, signalés comme modifiés depuis ou en vigueur.
+
+L'article a ainsi inséré dans ce code des règles relevant de l'objet du titre IV, que la loi elle-même ne reproduit pas. Il n'a pas de période de vigueur propre dans la base LEGI ; les règles applicables doivent être recherchées dans le code, dans sa numérotation actuelle, compte tenu du transfert signalé pour l'article L. 97-1.
 
 ### Article 49
 
@@ -413,6 +615,16 @@ L'article 50 ouvre le titre V, consacré au développement des technologies de l
 Seul subsiste le IV, disposition de validation et de transition. Les infrastructures destinées à supporter des réseaux de télécommunications créées par les collectivités territoriales ou leurs groupements en application de l'article L. 1511-6 du code général des collectivités territoriales, ainsi que les projets de construction de telles infrastructures dont la consultation publique était achevée à la date d'entrée en vigueur de l'article L. 1425-1 du même code, sont réputés créés dans les conditions prévues par ce dernier article.
 
 Cette fiction juridique (« sont réputés ») évite que les infrastructures existantes ou les projets avancés doivent être repris selon la nouvelle procédure, et sécurise leur régime en les soumettant d'emblée au cadre de l'article L. 1425-1, auquel se réfèrent également l'article 52 (III et VI) pour la couverture en téléphonie mobile. Le critère d'achèvement de la consultation publique sert de ligne de partage entre les projets bénéficiant de la validation et ceux qui doivent suivre le nouveau régime.
+
+### Article 51
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code général des collectivités territoriales - art. L2224-35 (M)
+
+L'article 51, placé au chapitre Ier du titre V (couverture du territoire par les services numériques), a créé selon la source l'article L. 2224-35 du code général des collectivités territoriales, signalé comme modifié depuis (« (M) »). Il est purement créateur et n'a pas de contenu normatif autonome dans la version consolidée ; la règle introduite figure dans le code général des collectivités territoriales.
 
 ### Article 52
 
@@ -496,6 +708,16 @@ L'article 52-3 pose une règle d'équivalence : lorsqu'une zone mentionnée aux 
 
 #### CHAPITRE II — De la liberté concurrentielle dans le secteur des télécommunications
 
+### Article 53
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code de la consommation - art. L113-4 (M)
+
+L'article 53 ouvre le chapitre II du titre V, consacré à la liberté concurrentielle dans le secteur des télécommunications. Selon la source, il a créé l'article L. 113-4 du code de la consommation, signalé comme modifié depuis (« (M) »). Il n'a pas de période de vigueur propre dans la base LEGI ; le chapitre conserve les articles 54 et 55.
+
 ### Article 54
 
 **Texte de la disposition:**
@@ -524,6 +746,22 @@ La gratuité pour l'usager n'implique donc pas l'absence de rémunération entre
 
 #### TITRE VI — DISPOSITIONS FINALES
 
+### Article 56
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 60-2 (M)
+>
+> Modifie : Code des douanes - art. 65 (M)
+>
+> Modifie : Code des postes et des communications électronique - art. L32-3-1 (T)
+>
+> Modifie : Code monétaire et financier - art. L621-10 (M)
+
+L'article 56 ouvre le titre VI (dispositions finales). Selon la source, il a modifié l'article 60-2 du code de procédure pénale, l'article 65 du code des douanes, l'article L. 32-3-1 du code des postes et des communications électroniques (depuis transféré, « (T) ») et l'article L. 621-10 du code monétaire et financier. L'article est purement modificatif et n'a pas de contenu normatif autonome dans la version consolidée.
+
 ### Article 57
 
 **Texte de la disposition:**
@@ -544,8 +782,16 @@ La gratuité pour l'usager n'implique donc pas l'absence de rémunération entre
 >
 > Les articles 29 à 32 du règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 relatif à un marché unique des services numériques sont applicables à Saint-Barthélemy, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna.
 
-L'article 57 règle l'application outre-mer de la loi et de certains règlements européens. Le I distingue trois régimes. Les articles 1er à 12, 14 à 20, 25 et 29 à 49 sont applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna dans leur rédaction résultant de la loi n° 2026-798 du 18 août 2026, ce qui fige leur version applicable dans ces collectivités à cette rédaction : les modifications ultérieures n'y seront applicables que par une nouvelle mention expresse. Les articles 8, 14, 19, 25 et 29 à 49 sont applicables dans les Terres australes et antarctiques françaises. A Mayotte, outre les dispositions s'appliquant de plein droit (I de l'article 22, articles 35 à 38 et 41 à 49), sont applicables les articles 1er à 8, 14 à 20, 25, 29 à 34, 39 et 40. Plusieurs articles compris dans ces renvois (notamment les articles 2, 10 à 12, 18, 25, 37, 38 et 41 à 48) ne figurent pas dans la version consolidée de la source ; les renvois doivent être compris comme portant sur les seuls articles en vigueur.
+L'article 57 règle l'application outre-mer de la loi et de certains règlements européens. Le I distingue trois régimes. Les articles 1er à 12, 14 à 20, 25 et 29 à 49 sont applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna dans leur rédaction résultant de la loi n° 2026-798 du 18 août 2026, ce qui fige leur version applicable dans ces collectivités à cette rédaction : les modifications ultérieures n'y seront applicables que par une nouvelle mention expresse. Les articles 8, 14, 19, 25 et 29 à 49 sont applicables dans les Terres australes et antarctiques françaises. A Mayotte, outre les dispositions s'appliquant de plein droit (I de l'article 22, articles 35 à 38 et 41 à 49), sont applicables les articles 1er à 8, 14 à 20, 25, 29 à 34, 39 et 40. Plusieurs articles compris dans ces renvois sont abrogés (article 18) ou purement modificatifs (notamment les articles 2, 25, 37, 38 et 41 à 48) ; les renvois n'ont de portée normative qu'à l'égard des articles en vigueur, au nombre desquels figurent les articles 10 à 12 du chapitre III du titre Ier.
 
 Le II procède aux adaptations : les références au tribunal de grande instance sont remplacées par des références au tribunal de première instance, et les références à des codes ou lois non applicables localement par les dispositions correspondantes applicables localement. Cette clause générale de transposition impose à l'interprète de rechercher, pour chaque renvoi, l'équivalent local.
 
 Le III étend à Saint-Barthélemy, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie, la Polynésie française et Wallis-et-Futuna le règlement (UE) 2021/784 et une liste détaillée de dispositions du règlement (UE) 2022/2065. Certaines dispositions de ce dernier y sont applicables à l'exception de celles relatives aux compétences de la Commission européenne et du comité européen des services numériques ; les articles 29 à 32 ne sont étendus qu'à Saint-Barthélemy, Saint-Pierre-et-Miquelon et Wallis-et-Futuna. Cette extension est nécessaire pour que les mécanismes nationaux de mise en oeuvre des articles 6-1-1 à 6-1-5 et 7 à 9-2 aient un objet dans ces territoires, qui ne relèvent pas tous du champ d'application territorial ordinaire du droit de l'Union.
+
+### Article 58
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-06-26 par LOI n°2020-766 du 24 juin 2020 - art. 19 (V))
+
+L'article 58 clôturait le titre VI (dispositions finales), après l'article 57 relatif à l'application de la loi outre-mer. Selon la source, il est abrogé à compter du 26 juin 2020 par l'article 19 de la loi n° 2020-766 du 24 juin 2020, la mention « (V) » signalant que la disposition abrogative est en vigueur dans la base LEGI. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.

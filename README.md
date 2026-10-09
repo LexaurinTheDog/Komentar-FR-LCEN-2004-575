@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique
 
-Commentaire d'un texte de droit français : **loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique** (LCEN ; JORF du 22 juin 2004, NOR ECOX0200175L). Il couvre **60 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique** (LCEN ; JORF du 22 juin 2004, NOR ECOX0200175L). Il couvre **93 articles** (65 articles en vigueur et 28 articles abrogés, non encore en vigueur ou purement modificatifs, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 26 août 2026).
 

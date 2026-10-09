@@ -1,4 +1,4 @@
-# Chapitre du commentaire 01 — Titre Ier — De la liberté de communication en ligne (art. 1 à 9-2)
+# Chapitre du commentaire 01 — Titre Ier — De la liberté de communication en ligne (art. 1 à 13)
 
 #### TITRE Ier — DE LA LIBERTÉ DE COMMUNICATION EN LIGNE
 
@@ -105,6 +105,48 @@ L'article 1-3 crée une obligation spécifique d'avertissement à la charge des 
 Le champ matériel est délimité par renvoi aux infractions des paragraphes 1 et 3 de la section 3 du chapitre II du titre II du livre II du code pénal ; c'est cette référence qui détermine quelles simulations déclenchent l'obligation. Le contenu et la présentation du message sont renvoyés à un décret pris après avis de l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 Le dispositif est assorti d'une double sanction. D'une part, le manquement est puni d'un an d'emprisonnement et de 75 000 euros d'amende. D'autre part, et de manière notable, le dernier alinéa qualifie d'« illicite » au sens du h de l'article 3 du règlement (UE) 2022/2065 sur les services numériques tout contenu dépourvu du message. Cette qualification fait entrer ces contenus dans le champ des mécanismes de signalement et de retrait prévus par ce règlement, dont l'application est confiée en France aux autorités désignées à l'article 7 et contrôlée selon les articles 8-1 et suivants. L'obligation pèse sur le producteur, mais la qualification d'illicéité produit des effets à l'égard des hébergeurs et plateformes qui diffusent le contenu.
+
+### Article 2
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°1881-07-29 du 29 juillet 1881 - art. 23 (V)
+>
+> Modifie : Loi n°71-1130 du 31 décembre 1971 - art. 66 (V)
+>
+> Modifie : Loi n°82-652 du 29 juillet 1982 - art. 93 (AbD)
+>
+> Modifie : Loi n°82-652 du 29 juillet 1982 - art. 93-2 (M)
+>
+> Modifie : Loi n°82-652 du 29 juillet 1982 - art. 93-3 (V)
+>
+> Modifie : Loi n°84-610 du 16 juillet 1984 - art. 18-2 (Ab)
+>
+> Modifie : Loi n°84-610 du 16 juillet 1984 - art. 18-3 (Ab)
+>
+> Modifie : Loi n°84-610 du 16 juillet 1984 - art. 18-4 (Ab)
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 177-1 (VT)
+>
+> Modifie : CODE DE PROCEDURE PENALE - art. 212-1 (VT)
+>
+> Modifie : Code pénal - art. 131-10 (M)
+>
+> Modifie : Code pénal - art. 131-35 (V)
+>
+> Modifie : Code pénal - art. 131-39 (M)
+>
+> Modifie : Code rural - art. R*511-36 (M)
+>
+> Modifie : Code électoral - art. L49 (V)
+>
+> Modifie : Code électoral - art. L52-2 (M)
+
+L'article 2 est un article purement modificatif du chapitre Ier du titre Ier. Selon la source, il a modifié une série de dispositions de lois et de codes divers : l'article 23 de la loi du 29 juillet 1881, l'article 66 de la loi n° 71-1130 du 31 décembre 1971, les articles 93, 93-2 et 93-3 de la loi n° 82-652 du 29 juillet 1982, les articles 18-2 à 18-4 de la loi n° 84-610 du 16 juillet 1984, les articles 177-1 et 212-1 du code de procédure pénale, les articles 131-10, 131-35 et 131-39 du code pénal, l'article R* 511-36 du code rural et les articles L. 49 et L. 52-2 du code électoral.
+
+Son rattachement au chapitre consacré à la communication au public en ligne indique que ces modifications ont accompagné la consécration de cette notion par la loi. Les mentions entre parenthèses indiquent, selon les conventions de la base LEGI, l'état actuel des dispositions visées — en vigueur (« (V) »), modifiée depuis (« (M) »), abrogée (« (Ab) »), en abrogation différée (« (AbD) ») ou en vigueur avec terme (« (VT) »). L'article n'a pas de période de vigueur propre ; les règles applicables résultent des textes modifiés.
 
 ### Article 3
 
@@ -432,6 +474,14 @@ Le II organise la responsabilité des personnes morales selon le schéma commun 
 
 L'infraction doit être lue en combinaison avec l'article 6-2, II : le délai de vingt-quatre heures ne court pas tant que subsiste un cas de force majeure ou une impossibilité de fait non imputable, ni avant la réception des éclaircissements demandés en cas de demande erronée ou incomplète. Ces règles constituent autant de moyens de défense pour l'hébergeur poursuivi. L'incrimination est autonome par rapport à la sanction générale des manquements à l'article 6-1, qui renvoie aux peines du C du III de l'article 6 ; elle s'en distingue notamment par la possibilité du plafond proportionnel au chiffre d'affaires.
 
+### Article 6-2-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2025-06-15 par LOI n°2025-532 du 13 juin 2025 - art. 28)
+
+L'article 6-2-2 se situait dans la section 2 du chapitre II, consacrée à la lutte contre les contenus terroristes et pédopornographiques, à la suite de l'article 6-2-1, qui sanctionne pénalement certains manquements des hébergeurs. Selon la source, il est abrogé à compter du 15 juin 2025 par l'article 28 de la loi n° 2025-532 du 13 juin 2025 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
 #### Section 3 — Dispositions relatives à l'intervention de l'autorité judiciaire
 
 ### Article 6-3
@@ -482,6 +532,40 @@ L'article 6-5 concerne la protection des enfants dont l'image est exploitée com
 
 L'autorité administrative ne dispose donc pas ici d'un pouvoir propre de retrait, à la différence de l'article 6-1 : elle doit passer par le juge, qui peut ordonner toute mesure propre à prévenir un dommage imminent ou à faire cesser un trouble manifestement illicite. Ces deux notions, empruntées au vocabulaire du référé, montrent que la mesure judiciaire vise la cessation rapide d'une situation irrégulière, sans préjuger d'éventuelles sanctions. Les modalités et conditions de saisine sont renvoyées au pouvoir réglementaire. L'article complète ainsi, dans un domaine spécial, le pouvoir général de prescription reconnu au juge par l'article 6-3.
 
+### Article 6-4-1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2024-04-24 par LOI n°2024-364 du 22 avril 2024 - art. 3 (V))
+
+L'article 6-4-1 relevait de la section 3 du chapitre II, consacrée à l'intervention de l'autorité judiciaire. Selon la source, il est abrogé à compter du 24 avril 2024 par l'article 3 de la loi n° 2024-364 du 22 avril 2024, la mention « (V) » signalant que la disposition abrogative est en vigueur dans la base LEGI. Son contenu n'est pas reproduit. La section conserve les articles 6-3 à 6-5 et 6-8.
+
+### Article 6-4-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2024-04-24 par LOI n°2024-364 du 22 avril 2024 - art. 3 (V))
+
+L'article 6-4-2 a été abrogé à la même date et par le même texte que l'article 6-4-1 : à compter du 24 avril 2024, par l'article 3 de la loi n° 2024-364 du 22 avril 2024, selon la source. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas ; il est mentionné pour la complétude de la numérotation de la section 3.
+
+### Article 6-6
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2024-04-24 par LOI n°2024-364 du 22 avril 2024 - art. 3 (V))
+
+L'article 6-6, placé dans la section 3 (intervention de l'autorité judiciaire), est abrogé à compter du 24 avril 2024 par l'article 3 de la loi n° 2024-364 du 22 avril 2024, comme les articles 6-4-1 et 6-4-2. La source ne reproduit pas son contenu. Il précède l'article 6-7, non encore en vigueur, et l'article 6-8, en vigueur dans une rédaction partielle.
+
+### Article 6-7
+
+**Texte de la disposition:**
+
+> (Non encore en vigueur : entrée en vigueur à une date ultérieure non déterminée)
+
+L'article 6-7 n'a pas de rédaction en vigueur : la source le signale comme « non encore en vigueur », avec une entrée en vigueur à une date ultérieure non déterminée. Son texte futur n'est pas reproduit dans la version consolidée et le commentaire ne peut l'analyser.
+
+Cette situation éclaire l'article 6-8. La version en vigueur de ce dernier commence à son II ; selon les données de version de la base LEGI dont la source est issue, le I de l'article 6-8, qui vise l'inexécution de la mise en demeure prévue au II de l'article 6-7, n'existe que dans une version future de cet article, dont l'entrée en vigueur est également différée à une date non déterminée. L'incomplétude apparente de l'article 6-8 ne résulte donc pas d'une lacune de la source, mais du décalage entre les dates d'entrée en vigueur de ces dispositions.
+
 ### Article 6-8
 
 **Texte de la disposition:**
@@ -494,7 +578,7 @@ L'autorité administrative ne dispose donc pas ici d'un pouvoir propre de retrai
 >
 > V. - Un décret en Conseil d'Etat, pris après avis de l'Autorité de régulation de la communication audiovisuelle et numérique, détermine les modalités d'application du présent article.
 
-L'article 6-8 figure dans la source sous une forme incomplète : la version consolidée ne reproduit pas de I et commence au II, alors que les III et IV renvoient aux « I et II » du présent article. Le commentaire ne peut donc porter que sur les paragraphes reproduits. De même, les articles 10 et 10-1 auxquels renvoie le II ne figurent pas dans la version consolidée de la présente loi telle qu'elle apparaît dans la source ; leur contenu ne peut être analysé ici.
+L'article 6-8 commence, dans sa version en vigueur, à son II, alors que les III et IV renvoient aux « I et II » du présent article. Il ne s'agit pas d'une lacune de la source : selon les données de version de la base LEGI, le I — qui vise l'inexécution de la mise en demeure prévue au II de l'article 6-7 — n'existe que dans une version future de l'article 6-8, dont l'entrée en vigueur est différée à une date non déterminée, comme celle de l'article 6-7 lui-même (voir son commentaire). Le commentaire porte donc sur les paragraphes en vigueur. Les articles 10 et 10-1 auxquels renvoie le II figurent au chapitre III du titre Ier et sont commentés à leur place : la mise en demeure du II de l'article 10 sanctionne la non-conformité au référentiel de vérification de l'âge, celle du I de l'article 10-1 l'accès effectif des mineurs à des contenus pornographiques.
 
 Le II vise l'hypothèse dans laquelle une mise en demeure prévue par ces dispositions n'a pas été exécutée et où l'éditeur ou le fournisseur d'une plateforme de partage de vidéos donne accès à des contenus pornographiques au moyen d'une application logicielle, ou édite des applications reprenant ces contenus en totalité ou de manière substantielle selon les mêmes modalités d'accès. L'Arcom peut alors demander aux boutiques d'applications logicielles, définies au 6 du I de l'article 6, d'empêcher le téléchargement des applications en cause, dans un délai de quarante-huit heures.
 
@@ -771,3 +855,203 @@ L'article 9-2 fixe le régime des sanctions prononcées par l'Arcom pour les man
 Le II permet de prononcer une sanction pécuniaire, dans les conditions de l'article 42-7 de la loi n° 86-1067 du 30 septembre 1986, lorsque le fournisseur ne se conforme pas à la mise en demeure ou à l'injonction, ou ne satisfait pas aux mesures prises au titre des V et VI de l'article 9-1. La mise en demeure est donc un préalable nécessaire à la sanction. Le montant de la sanction et celui de l'astreinte sont modulés selon sept critères identiques à ceux de l'article 6-1-4 : nature, gravité et durée, intention ou négligence, antécédents, situation financière, coopération, nature et taille, degré de responsabilité au regard des mesures techniques et organisationnelles prises.
 
 Le III fixe les plafonds : 6 % du chiffre d'affaires mondial hors taxes de l'exercice précédent pour la sanction de principe, 1 % pour le refus de déférer aux demandes d'enquête, et, pour l'astreinte, 5 % par jour du chiffre d'affaires mondial journalier moyen de l'exercice précédent, calculée à compter de la date fixée par la décision. Le IV autorise la publication des décisions et leur insertion dans des supports désignés aux frais du fournisseur, la publicité devant tenir compte de la gravité du manquement. Les sanctions sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine. La proportionnalité est ainsi assurée à la fois par les critères de modulation et par la gradation des plafonds.
+
+#### CHAPITRE III — Régulation de la communication
+
+### Article 10
+
+**Texte de la disposition:**
+
+> I.-L'Autorité de régulation de la communication audiovisuelle et numérique veille à ce que les contenus pornographiques mis à la disposition du public par un éditeur de service de communication au public en ligne, sous sa responsabilité éditoriale, ou fournis par un service de plateforme de partage de vidéos, au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, ne soient pas accessibles aux mineurs.
+>
+> Elle établit et publie à cette fin, après avis de la Commission nationale de l'informatique et des libertés, un référentiel déterminant les exigences techniques minimales applicables aux systèmes de vérification de l'âge. Ces exigences portent sur la fiabilité du contrôle de l'âge des utilisateurs et sur le respect de leur vie privée. Ce référentiel est actualisé en tant que de besoin dans les mêmes conditions. L'Autorité de régulation de la communication audiovisuelle et numérique peut exiger des éditeurs et des fournisseurs de services mentionnés au premier alinéa du présent I qu'ils conduisent un audit des systèmes de vérification de l'âge qu'ils mettent en œuvre afin d'attester de la conformité de ces systèmes avec les exigences techniques définies par le référentiel. Ledit référentiel précise les modalités de réalisation et de publicité de cet audit, qui est confié à un organisme indépendant disposant d'une expérience avérée.
+>
+> L'éditeur de service de communication au public en ligne et le fournisseur d'un service de plateforme de partage de vidéos mentionnés au même premier alinéa prévoient l'affichage d'un écran ne comportant aucun contenu à caractère pornographique tant que l'âge de l'utilisateur n'a pas été vérifié.
+>
+> II.-L'Autorité de régulation de la communication audiovisuelle et numérique peut, le cas échéant après avis du président de la Commission nationale de l'informatique et des libertés, mettre en demeure les personnes mentionnées au premier alinéa du I qui permettent l'accès à un contenu pornographique de se conformer, dans un délai d'un mois, au référentiel mentionné au deuxième alinéa du même I. Elle rend publiques ces mises en demeure.
+>
+> Lorsque la personne ne se conforme pas à la mise en demeure à l'expiration de ce délai, l'Autorité de régulation de la communication audiovisuelle et numérique peut, après avis de la Commission nationale de l'informatique et des libertés, prononcer une sanction pécuniaire dans les conditions prévues à l'article 42-7 de la loi n° 86-1067 du 30 septembre 1986 précitée.
+>
+> Le montant de la sanction prend en compte la nature, la gravité et la durée du manquement, les avantages tirés de ce manquement et les manquements commis précédemment.
+>
+> La sanction prononcée ne peut excéder 150 000 euros ou 2 % du chiffre d'affaires mondial hors taxes réalisé au cours de l'exercice précédent, le plus élevé des deux montants étant retenu. Ce maximum est porté à 300 000 euros ou à 4 % du chiffre d'affaires mondial hors taxes, le plus élevé des deux montants étant retenu, en cas de réitération du manquement dans un délai de cinq ans à compter de la date à laquelle la première sanction est devenue définitive.
+>
+> Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+>
+> II.-L'Autorité de régulation de la communication audiovisuelle et numérique établit et publie le référentiel mentionné au I de l'article 10 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, dans sa rédaction résultant de la présente loi, dans un délai de deux mois à compter de sa promulgation. Elle rend compte, dans le rapport d'activité mentionné au IV de l'article 10-1 de la loi n° 2004-575 du 21 juin 2004 précitée, des actualisations du référentiel et des audits des systèmes de vérification de l'âge mis en œuvre par les services concernés.
+>
+> III.-Les personnes mentionnées au I de l'article 10 de la loi n° 2004-575 du 21 juin 2004 précitée dont le service permet l'accès à des contenus pornographiques mettent en œuvre un système de vérification de l'âge conforme aux caractéristiques techniques du référentiel mentionné au même I dans un délai de trois mois à compter de la publication du référentiel par l'Autorité de régulation de la communication audiovisuelle et numérique.
+
+L'article 10 ouvre le chapitre III du titre Ier, intitulé « Régulation de la communication », et organise la protection des mineurs contre l'accès aux contenus pornographiques en ligne. Le I confie à l'Autorité de régulation de la communication audiovisuelle et numérique (Arcom) une mission de veille : les contenus pornographiques mis à la disposition du public par un éditeur de service de communication au public en ligne, sous sa responsabilité éditoriale, ou fournis par un service de plateforme de partage de vidéos au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986, ne doivent pas être accessibles aux mineurs.
+
+L'instrument central est le référentiel prévu au deuxième alinéa du I. Etabli et publié par l'Arcom après avis de la Commission nationale de l'informatique et des libertés, il fixe les exigences techniques minimales des systèmes de vérification de l'âge, qui portent à la fois sur la fiabilité du contrôle et sur le respect de la vie privée des utilisateurs ; la double exigence explique l'association de la CNIL. L'Arcom peut imposer un audit des systèmes mis en œuvre, confié à un organisme indépendant d'expérience avérée, selon les modalités précisées par le référentiel. Le troisième alinéa ajoute une obligation de résultat simple à contrôler : tant que l'âge n'a pas été vérifié, le service affiche un écran sans contenu pornographique.
+
+Le II organise la sanction de la non-conformité au référentiel. L'Arcom peut, le cas échéant après avis du président de la CNIL, mettre en demeure l'éditeur ou le fournisseur de se conformer dans un délai d'un mois ; la mise en demeure est rendue publique. A défaut d'exécution, elle peut, après avis de la CNIL, prononcer une sanction pécuniaire selon la procédure de l'article 42-7 de la loi de 1986. Le montant tient compte de la nature, de la gravité et de la durée du manquement, des avantages qui en ont été tirés et des antécédents ; il est plafonné à 150 000 euros ou 2 % du chiffre d'affaires mondial hors taxes, le montant le plus élevé étant retenu, plafond porté à 300 000 euros ou 4 % en cas de réitération dans les cinq ans. Le recouvrement suit le régime des créances de l'Etat étrangères à l'impôt et au domaine.
+
+La source reproduit à la suite un second II et un III qui, par leur rédaction (« le référentiel mentionné au I de l'article 10 de la loi n° 2004-575 […] dans sa rédaction résultant de la présente loi », « dans un délai de deux mois à compter de sa promulgation »), sont manifestement des dispositions transitoires de la loi modificative insérées dans le texte consolidé. Elles imposent à l'Arcom de publier le référentiel dans les deux mois de la promulgation de cette loi et d'en rendre compte dans le rapport d'activité prévu au IV de l'article 10-1, et laissent aux services concernés trois mois à compter de la publication du référentiel pour s'y conformer. Le dispositif de l'article 10 se combine avec la procédure de l'article 10-1, qui vise l'accès effectif des mineurs à des contenus pornographiques, et avec le champ territorial défini par l'article 10-2.
+
+### Article 10-1
+
+**Texte de la disposition:**
+
+> I.-Lorsqu'une personne dont l'activité est de fournir un service de communication au public en ligne sous sa responsabilité éditoriale ou de fournir un service de plateforme de partage de vidéos permet à des mineurs d'avoir accès à un contenu pornographique en violation de l'article 227-24 du code pénal, l'Autorité de régulation de la communication audiovisuelle et numérique lui fait part de ses observations motivées par une lettre, remise par tout moyen propre à en établir la date de réception. A compter de la date de sa réception, le destinataire de cette lettre dispose d'un délai de quinze jours pour présenter ses observations.
+>
+> A l'expiration de ce délai, l'Autorité de régulation de la communication audiovisuelle et numérique peut mettre en demeure la personne mentionnée au premier alinéa du présent I de prendre, dans un délai de quinze jours, toute mesure de nature à empêcher l'accès des mineurs à ces contenus. L'Autorité de régulation de la communication audiovisuelle et numérique rend publique cette mise en demeure.
+>
+> II.-Lorsque la personne mentionnée au I ne se conforme pas à la mise en demeure à l'expiration du délai de quinze jours mentionné au second alinéa du même I, l'Autorité de régulation de la communication audiovisuelle et numérique peut prononcer une sanction pécuniaire dans les conditions prévues à l'article 42-7 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+>
+> Le montant de la sanction prend en compte la nature, la gravité et la durée du manquement, les avantages tirés de ce manquement et les manquements commis précédemment.
+>
+> La sanction prononcée ne peut excéder 250 000 euros ou 4 % du chiffre d'affaires mondial hors taxes réalisé au cours de l'exercice précédent, le plus élevé des deux montants étant retenu. Ce maximum est porté à 500 000 euros ou à 6 % du chiffre d'affaires mondial hors taxes, le plus élevé des deux montants étant retenu, en cas de réitération du manquement dans un délai de cinq ans à compter de la date à laquelle la première sanction est devenue définitive.
+>
+> Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+>
+> III.-En cas d'inexécution de la mise en demeure prévue au I du présent article, l'Autorité de régulation de la communication audiovisuelle et numérique peut notifier aux fournisseurs de services d'accès à internet ou aux fournisseurs de systèmes de résolution de noms de domaine mentionnés au II de l'article 12, par tout moyen propre à en établir la date de réception, les adresses électroniques des services de communication au public en ligne ou des services de plateforme de partage de vidéos ayant fait l'objet de la procédure prévue au I du présent article ainsi que celles des services qui reprennent le même contenu, en totalité ou de manière substantielle, et qui présentent les mêmes modalités d'accès. Ces fournisseurs doivent alors empêcher l'accès à ces adresses dans un délai de quarante-huit heures. Toutefois, en l'absence de mise à disposition des informations mentionnées aux I et II de l'article 1er-1, l'Autorité de régulation de la communication audiovisuelle et numérique peut procéder à la notification prévue au présent III sans avoir mis en œuvre la procédure prévue au I du présent article.
+>
+> Les utilisateurs des services de communication au public en ligne et des services de plateforme de partage de vidéos auxquels l'accès est empêché sont avertis par une page d'information de l'Autorité de régulation de la communication audiovisuelle et numérique indiquant les motifs de la mesure de blocage.
+>
+> L'Autorité de régulation de la communication audiovisuelle et numérique peut également notifier les adresses électroniques de ces services ainsi que celles des services qui reprennent le même contenu, en totalité ou de manière substantielle, et qui présentent les mêmes modalités d'accès aux moteurs de recherche ou aux annuaires, lesquels disposent d'un délai de quarante-huit heures afin de faire cesser le référencement des services concernés.
+>
+> Une copie des notifications adressées aux fournisseurs de services d'accès à internet, aux fournisseurs de systèmes de résolution de noms de domaine et aux moteurs de recherche ou aux annuaires est adressée simultanément à la personne dont l'activité est d'éditer le service de communication au public en ligne ou de fournir un service de plateforme de partage de vidéos concernée.
+>
+> Les mesures prévues au présent III sont prononcées pour une durée maximale de deux ans. Leur nécessité est réévaluée, d'office ou sur demande, au moins une fois par an. Lorsque les faits mentionnés au premier alinéa du I ne sont plus constitués, l'Autorité de régulation de la communication audiovisuelle et numérique avise sans délai les destinataires des notifications prévues au présent III de la levée de ces mesures.
+>
+> IV.-L'Autorité de régulation de la communication audiovisuelle et numérique rend public chaque année un rapport d'activité sur les conditions d'exercice et les résultats de son activité, qui précise notamment le nombre de décisions d'injonction, les suites qui y ont été données, les éventuelles décisions de justice prises sur les recours engagés contre ces décisions d'injonction et le nombre d'adresses électroniques qui ont fait l'objet d'une mesure de blocage d'accès ou de déréférencement. Ce rapport est remis au Gouvernement et au Parlement.
+>
+> V.-Sans préjudice des articles L. 521-1 et L. 521-2 du code de justice administrative, les personnes mentionnées aux I à III du présent article peuvent demander au président du tribunal administratif ou au magistrat délégué par celui-ci l'annulation des mesures mentionnées aux mêmes I à III dans un délai de cinq jours à compter de leur réception.
+>
+> Il est statué sur la légalité de la mesure de blocage ou de déréférencement dans un délai d'un mois à compter de la saisine. L'audience est publique.
+>
+> Les jugements rendus en application des deux premiers alinéas du présent V sont susceptibles d'appel dans un délai de dix jours à compter de leur notification. Dans ce cas, la juridiction d'appel statue dans un délai de trois mois à compter de sa saisine.
+>
+> VI.-Pour tout manquement aux obligations définies au III du présent article, l'Autorité de régulation de la communication audiovisuelle et numérique peut prononcer une sanction pécuniaire dans les conditions prévues à l'article 42-7 de la loi n° 86-1067 du 30 septembre 1986 précitée.
+>
+> Toutefois, aucune sanction ne peut être prononcée lorsque, en raison de motifs de force majeure ou d'impossibilité de fait qui ne lui sont pas imputables, la personne concernée est placée dans l'impossibilité de respecter l'obligation qui lui a été faite ou, lorsque la procédure prévue au V du présent article a été engagée, tant qu'elle n'a pas fait l'objet d'une décision devenue définitive.
+>
+> Le montant de la sanction prend en compte la nature, la gravité et la durée du manquement, les avantages tirés de ce manquement et les manquements commis précédemment.
+>
+> Le montant de la sanction ne peut excéder la somme de 75 000 euros ou 1 % du chiffre d'affaires mondial hors taxes réalisé au cours de l'exercice précédent, le plus élevé des deux montants étant retenu. Ce maximum est porté à 150 000 euros ou à 2 % du chiffre d'affaires mondial hors taxes, le plus élevé des deux montants étant retenu, en cas de réitération du manquement dans un délai de cinq ans à compter de la date à laquelle la première sanction est devenue définitive.
+>
+> Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+>
+> VII.-Les agents de l'Autorité de régulation de la communication audiovisuelle et numérique peuvent, s'ils ont été spécialement habilités à cet effet par l'autorité et assermentés dans les conditions prévues au 2° du I de l'article 19 de la loi n° 86-1067 du 30 septembre 1986 précitée, constater par procès-verbal qu'un service de communication au public en ligne ou un service de plateforme de partage de vidéos permettant l'accès à des contenus pornographiques ne met pas en œuvre un système de vérification de l'âge conforme aux exigences techniques minimales du référentiel mentionné à l'article 10 de la présente loi ou permet à des mineurs d'avoir accès à un contenu pornographique en violation de l'article 227-24 du code pénal.
+>
+> VIII.-Les conditions d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+*NOTA (source):* NOTA : Conformément au I de l’article 64 de la loi n° 2024-449 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2024. Toutefois, les procédures déjà engagées au 31 décembre 2023 restent régies par l'article 23 de la loi n° 2020-936 du 30 juillet 2020 visant à protéger les victimes de violences conjugales dans sa rédaction antérieure à la présente loi.
+
+L'article 10-1 organise la procédure administrative applicable lorsqu'un éditeur de service de communication au public en ligne ou un fournisseur de plateforme de partage de vidéos permet à des mineurs d'accéder à un contenu pornographique en violation de l'article 227-24 du code pénal. Alors que l'article 10 vise la conformité des systèmes de vérification de l'âge au référentiel, l'article 10-1 réprime le résultat lui-même : l'accès des mineurs.
+
+La procédure est graduée. Le I prévoit d'abord une phase contradictoire : l'Arcom adresse des observations motivées, et le destinataire dispose de quinze jours pour répondre ; l'Arcom peut ensuite mettre en demeure la personne de prendre, dans un nouveau délai de quinze jours, toute mesure de nature à empêcher l'accès des mineurs, et rendre publique cette mise en demeure. Le II permet, en cas d'inexécution, une sanction pécuniaire selon l'article 42-7 de la loi n° 86-1067 du 30 septembre 1986, plafonnée à 250 000 euros ou 4 % du chiffre d'affaires mondial hors taxes (500 000 euros ou 6 % en cas de réitération dans les cinq ans).
+
+Le III ouvre la voie au blocage et au déréférencement. L'Arcom peut notifier aux fournisseurs d'accès à internet et aux fournisseurs de systèmes de résolution de noms de domaine mentionnés au II de l'article 12 les adresses des services visés, ainsi que celles des services reprenant le même contenu selon les mêmes modalités d'accès ; ces fournisseurs doivent empêcher l'accès dans les quarante-huit heures. Lorsque l'éditeur n'a pas mis à disposition les informations d'identification exigées par l'article 1er-1, la notification peut intervenir sans procédure préalable. Les utilisateurs sont redirigés vers une page d'information, les moteurs de recherche et annuaires peuvent être tenus de cesser le référencement dans le même délai, et une copie des notifications est adressée à l'éditeur ou au fournisseur. Les mesures sont limitées à deux ans, réévaluées au moins annuellement et levées sans délai lorsque les faits ne sont plus constitués.
+
+Les garanties sont renforcées. Le IV impose un rapport d'activité annuel public, remis au Gouvernement et au Parlement. Le V institue un recours spécifique devant le président du tribunal administratif, à former dans les cinq jours, jugé dans le mois en audience publique, avec appel dans les dix jours et jugement d'appel dans les trois mois, sans préjudice des référés des articles L. 521-1 et L. 521-2 du code de justice administrative. Le VI sanctionne les intermédiaires qui ne respectent pas les obligations du III (75 000 euros ou 1 %, 150 000 euros ou 2 % en cas de réitération), sauf force majeure ou impossibilité de fait, et suspend toute sanction pendant le recours du V. Le VII habilite des agents assermentés de l'Arcom à constater les manquements par procès-verbal, et le VIII renvoie à un décret en Conseil d'Etat. La NOTA précise l'entrée en vigueur au 1er janvier 2024 et maintient les procédures engagées au 31 décembre 2023 sous l'ancien article 23 de la loi n° 2020-936 du 30 juillet 2020.
+
+### Article 10-2
+
+**Texte de la disposition:**
+
+> I.-Les articles 10 et 10-1 s'appliquent aux éditeurs de service de communication au public en ligne et aux fournisseurs de services de plateforme de partage de vidéos établis en France ou hors de l'Union européenne.
+>
+> II.-Lorsque les conditions mentionnées au a du paragraphe 4 de l'article 3 de la directive 2000/31/ CE du Parlement européen et du Conseil du 8 juin 2000 relative à certains aspects juridiques des services de la société de l'information, et notamment du commerce électronique, dans le marché intérieur (“ directive sur le commerce électronique ”) sont remplies et au terme de la procédure prévue au b du paragraphe 4 ou, le cas échéant, au paragraphe 5 du même article 3, les articles 10 et 10-1 de la présente loi s'appliquent également aux éditeurs de service de communication au public en ligne et aux fournisseurs de services de plateforme de partage de vidéos établis dans un autre Etat membre de l'Union européenne, trois mois après la publication de l'arrêté conjoint du ministre chargé de la culture et de la communication et du ministre chargé du numérique les désignant. L'Autorité de régulation de la communication audiovisuelle et numérique peut proposer aux ministres la désignation de ces personnes et fournit à l'appui tous les éléments de nature à justifier sa proposition. L'arrêté est pris après avis de l'Autorité de régulation de la communication audiovisuelle et numérique, sauf lorsqu'il fait suite à une proposition de l'Autorité portant sur chacun des fournisseurs désignés par cet arrêté.
+
+*NOTA (source):* NOTA : Conformément au I de l’article 64 de la loi n° 2024-449 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2024. Toutefois, les procédures déjà engagées au 31 décembre 2023 restent régies par l'article 23 de la loi n° 2020-936 du 30 juillet 2020 visant à protéger les victimes de violences conjugales dans sa rédaction antérieure à la présente loi.
+
+L'article 10-2 détermine le champ territorial des articles 10 et 10-1. Le I pose la règle de principe : ces articles s'appliquent aux éditeurs de services de communication au public en ligne et aux fournisseurs de plateformes de partage de vidéos établis en France ou hors de l'Union européenne. Les services établis dans un autre Etat membre en sont exclus par principe ; leur inclusion relève de la dérogation organisée par le II, qui renvoie expressément à la directive 2000/31/CE sur le commerce électronique.
+
+Le II organise la dérogation permise par cette directive. Lorsque les conditions du a du paragraphe 4 de son article 3 sont remplies et au terme de la procédure du b du paragraphe 4 ou, le cas échéant, du paragraphe 5 du même article, les articles 10 et 10-1 s'appliquent aussi aux services établis dans un autre Etat membre, trois mois après la publication d'un arrêté conjoint des ministres chargés de la culture et de la communication et du numérique qui les désigne. L'Arcom peut proposer cette désignation en fournissant les éléments justificatifs ; l'arrêté est pris après son avis, sauf s'il fait suite à une proposition de l'Autorité portant sur chacun des fournisseurs désignés. Le mécanisme subordonne ainsi l'extension du dispositif de protection des mineurs à une désignation individuelle et motivée des services concernés. La NOTA précise l'entrée en vigueur au 1er janvier 2024.
+
+### Article 11
+
+**Texte de la disposition:**
+
+> I.-L'Autorité de régulation de la communication audiovisuelle et numérique peut mettre en demeure les personnes dont l'activité est d'éditer un service de communication au public en ligne mentionnées au I de l'article 1er-1 et les fournisseurs de services d'hébergement définis au 2 du I de l'article 6 de retirer les contenus ou de faire cesser la diffusion des contenus qui contreviennent aux dispositions prises sur le fondement de l'article 215 du traité sur le fonctionnement de l'Union européenne portant sur l'interdiction de diffusion de contenus provenant des personnes visées par les sanctions. La personne destinataire de la mise en demeure dispose d'un délai de soixante-douze heures pour présenter ses observations.
+>
+> II.-A l'expiration de ce délai, si les contenus n'ont pas été retirés ou si leur diffusion n'a pas cessé, l'autorité peut notifier aux fournisseurs de services d'accès à internet ou aux fournisseurs de systèmes de résolution de noms de domaine définis au II de l'article 12 de la présente loi la liste des adresses électroniques des personnes ayant fait l'objet d'une mise en demeure en application du I du présent article, afin qu'ils empêchent, dans un délai fixé par l'Autorité de régulation de la communication audiovisuelle et numérique, l'accès à ces adresses. Toutefois, en l'absence d'éléments d'identification des personnes dont l'activité est d'éditer un service de communication au public en ligne mentionnées au I de l'article 1er-1 et des fournisseurs de services d'hébergement définis au 2 du I de l'article 6, l'autorité peut procéder à cette notification sans avoir préalablement demandé le retrait ou la cessation de la diffusion des contenus dans les conditions prévues au I du présent article.
+>
+> L'autorité peut également notifier les adresses électroniques dont les contenus contreviennent au même I aux moteurs de recherche ou aux annuaires, lesquels prennent toute mesure utile destinée à faire cesser leur référencement.
+>
+> III.-L'autorité peut agir soit d'office, soit sur saisine du ministère public ou de toute personne physique ou morale.
+>
+> IV.-En cas de méconnaissance de l'obligation de retirer les contenus ou de faire cesser la diffusion des contenus mentionnés au I du présent article, l'autorité peut prononcer à l'encontre de l'auteur de ce manquement, dans les conditions prévues à l'article 42-7 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, une sanction pécuniaire dont le montant, fixé en fonction de la gravité du manquement, ne peut excéder 4 % du chiffre d'affaires mondial hors taxes réalisé au cours du dernier exercice clos calculé sur une période de douze mois ou, en l'absence de chiffre d'affaires, 250 000 euros. Ce maximum est porté à 6 % du chiffre d'affaires mondial hors taxes en cas de réitération du manquement dans un délai de cinq ans à compter de la date à laquelle la première décision de sanction est devenue définitive ou, en l'absence de chiffre d'affaires, à 500 000 euros. La méconnaissance de l'obligation d'empêcher l'accès aux adresses notifiées ou de prendre toute mesure utile destinée à faire cesser le référencement du service de communication au public en ligne en application du second alinéa du II du présent article peut être sanctionnée dans les mêmes conditions. Dans ce dernier cas, l'amende ne peut excéder 1 % du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos calculé sur une période de douze mois ou, en l'absence de chiffre d'affaires, 75 000 euros. Ce maximum est porté à 2 % du chiffre d'affaires mondial hors taxes en cas de réitération du manquement dans un délai de cinq ans à compter de la date à laquelle la première décision de sanction est devenue définitive ou, en l'absence de chiffre d'affaires, à 150 000 euros.
+>
+> Lorsque sont prononcées, à l'encontre de la même personne, une amende administrative en application du présent article et une amende pénale en application de l'article 459 du code des douanes en raison des mêmes faits, le montant global des amendes prononcées ne dépasse pas le maximum légal le plus élevé des sanctions encourues.
+>
+> V.-Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
+
+L'article 11 confie à l'Arcom la mise en œuvre, dans l'espace numérique, des mesures restrictives adoptées sur le fondement de l'article 215 du traité sur le fonctionnement de l'Union européenne qui interdisent la diffusion de contenus provenant de personnes visées par des sanctions. Il complète ainsi le dispositif de régulation du chapitre III par un instrument lié à la politique de sanctions de l'Union.
+
+Le I permet à l'Arcom de mettre en demeure les éditeurs mentionnés au I de l'article 1er-1 et les hébergeurs définis au 2 du I de l'article 6 de retirer les contenus en cause ou d'en faire cesser la diffusion ; le destinataire dispose de soixante-douze heures pour présenter ses observations. Le II prévoit, à défaut de retrait, la notification des adresses aux fournisseurs d'accès et de systèmes de résolution de noms de domaine définis au II de l'article 12, qui doivent en empêcher l'accès dans le délai fixé par l'Arcom ; lorsque l'éditeur ou l'hébergeur ne peut être identifié, la notification peut intervenir sans mise en demeure préalable. Les moteurs de recherche et annuaires peuvent aussi être tenus de faire cesser le référencement. Le III ouvre largement la saisine : l'Arcom agit d'office ou sur saisine du ministère public ou de toute personne physique ou morale.
+
+Le IV fixe les sanctions pécuniaires, prononcées selon l'article 42-7 de la loi n° 86-1067 : jusqu'à 4 % du chiffre d'affaires mondial hors taxes (ou 250 000 euros en l'absence de chiffre d'affaires) pour le défaut de retrait, 6 % (ou 500 000 euros) en cas de réitération dans les cinq ans ; jusqu'à 1 % (ou 75 000 euros), 2 % (ou 150 000 euros) en cas de réitération, pour les intermédiaires qui ne bloquent pas ou ne déréférencent pas. Le second alinéa du IV règle le cumul avec l'amende pénale de l'article 459 du code des douanes en limitant le montant global des amendes au maximum légal le plus élevé des sanctions encourues. Le V renvoie à un décret en Conseil d'Etat.
+
+### Article 12
+
+**Texte de la disposition:**
+
+> I.-Lorsque l'un de ses agents spécialement désignés et habilités à cette fin constate qu'un service de communication au public en ligne est manifestement conçu pour réaliser des opérations constituant une des infractions mentionnées aux articles 226-4-1,226-18 et 323-1 du code pénal et à l'article L. 163-4 du code monétaire et financier ou l'escroquerie, au sens de l'article 313-1 du code pénal, et consistant à mettre en ligne ou à diriger l'utilisateur vers une interface dont les caractéristiques sont de nature à créer la confusion avec l'interface en ligne d'un service existant et à inciter ainsi l'utilisateur de cette interface, à son préjudice ou au préjudice d'un tiers, à fournir des données à caractère personnel ou à verser une somme d'argent, l'autorité administrative met en demeure la personne dont l'activité est d'éditer le service de communication au public en ligne en cause, sous réserve qu'elle ait mis à disposition les informations mentionnées à l'article 1er-1 de la présente loi, de cesser les opérations constituant l'infraction constatée. Elle l'informe également des mesures conservatoires mentionnées au deuxième alinéa du présent I prises à son encontre et l'invite à lui adresser ses observations dans un délai de cinq jours à compter de la notification de ces mesures.
+>
+> Simultanément, l'autorité administrative notifie l'adresse électronique du service concerné aux fournisseurs de navigateurs internet, au sens du 11 de l'article 2 du règlement (UE) 2022/1925 du Parlement européen et du Conseil du 14 septembre 2022 relatif aux marchés contestables et équitables dans le secteur numérique et modifiant les directives (UE) 2019/1937 et (UE) 2020/1828 (règlement sur les marchés numériques), aux fins de la mise en œuvre de mesures conservatoires.
+>
+> La personne destinataire d'une notification prend sans délai, à titre conservatoire, toute mesure utile consistant à afficher un message avertissant l'utilisateur du risque de préjudice encouru en cas d'accès à cette adresse. Ce message est clair, lisible, unique et compréhensible et permet aux utilisateurs d'accéder à un site internet officiel défini par le décret mentionné au VI du présent article.
+>
+> Ces mesures conservatoires sont mises en œuvre pendant une durée de sept jours à compter de leur notification.
+>
+> Lorsque l'autorité administrative, le cas échéant après avoir pris connaissance des observations de la personne dont l'activité est d'éditer le service de communication au public en ligne en cause, estime que le constat mentionné au premier alinéa du présent I n'est plus valable, elle demande sans délai à la personne destinataire d'une telle notification de mettre fin aussitôt aux mesures conservatoires.
+>
+> II.-Lorsque la personne dont l'activité est d'éditer le service de communication au public en ligne en cause n'a pas mis à disposition les informations mentionnées à l'article 1er-1, lorsque celles-ci ne permettent pas de la contacter ou lorsqu'au terme du délai mentionné au premier alinéa du I du présent article, le cas échéant après que cette personne a fait valoir ses observations, il apparaît que le constat mentionné au même premier alinéa est toujours valable, l'autorité administrative peut, par une décision motivée, enjoindre aux fournisseurs de services d'accès à internet ou aux fournisseurs de systèmes de résolution de noms de domaine de prendre sans délai toute mesure utile destinée à empêcher l'accès à l'adresse de ce service pour une durée maximale de trois mois. Dans les mêmes conditions, elle peut enjoindre aux fournisseurs de navigateurs internet, au sens du 11 de l'article 2 du règlement (UE) 2022/1925 du Parlement européen et du Conseil du 14 septembre 2022 précité, d'afficher sans délai un message clair, lisible, unique et compréhensible avertissant les utilisateurs qui tentent d'accéder au service concerné du préjudice encouru, subordonnant l'accès à ce service à une confirmation explicite de l'utilisateur et lui permettant d'accéder au site internet officiel défini par le décret mentionné au VI du présent article, pour une durée maximale de trois mois.
+>
+> Les utilisateurs des services de communication au public en ligne dont l'accès est empêché en application des mesures mentionnées au premier alinéa du présent II sont dirigés vers une page d'information indiquant les motifs de la décision de l'autorité administrative et mentionnant le site internet officiel défini par le décret mentionné au VI.
+>
+> Au terme de la durée prescrite au premier alinéa du présent II, la mesure prise sur le fondement du même premier alinéa peut être prolongée de six mois au plus. Une prolongation supplémentaire de six mois peut être décidée.
+>
+> Pour l'application dudit premier alinéa, on entend par fournisseur de systèmes de résolution de noms de domaine toute personne mettant à disposition un service permettant la traduction d'un nom de domaine en un numéro unique identifiant un appareil connecté à internet.
+>
+> Les décisions prises en application des premier et troisième alinéas du présent II sont notifiées par l'autorité administrative, sous la réserve mentionnée au premier alinéa du I, à la personne dont l'activité est d'éditer le service de communication au public en ligne en cause.
+>
+> L'autorité administrative peut également notifier les adresses électroniques dont les contenus contreviennent au même I aux moteurs de recherche ou aux annuaires, lesquels prennent toute mesure utile destinée à faire cesser leur référencement.
+>
+> L'autorité administrative peut à tout instant demander aux fournisseurs mentionnés au premier alinéa du présent II de mettre fin aux mesures mentionnées au même premier alinéa lorsque le constat sur lequel elles étaient fondées n'est plus valable.
+>
+> III.-L'autorité administrative transmet sans délai les demandes mentionnées aux I et II ainsi que les adresses électroniques des services de communication en ligne concernés à une personnalité qualifiée désignée en son sein par la Commission nationale de l'informatique et des libertés pour la durée de son mandat au sein de cette commission. La personnalité qualifiée s'assure du caractère justifié des mesures et des conditions d'établissement, de mise à jour, de communication et d'utilisation de la liste des adresses électroniques concernées. Elle peut saisir le collège de la Commission nationale de l'informatique et des libertés lorsque l'enjeu le justifie. Elle peut, à tout moment, enjoindre à l'autorité administrative de mettre fin aux mesures qu'elle a prises sur le fondement des mêmes I et II.
+>
+> Lorsque la personne dont l'activité est d'éditer le service de communication au public en ligne en cause saisit la personnalité qualifiée d'un recours administratif dans les conditions fixées par le décret mentionné au VI, la mesure prise sur le fondement des I ou II est suspendue pendant la durée de l'instruction de ce recours par la personnalité qualifiée.
+>
+> La personnalité qualifiée rend public chaque année un rapport d'activité, annexé au rapport public prévu à l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, qui comporte des éléments relatifs notamment :
+>
+> 1° Au nombre et aux motifs des mesures conservatoires demandées en application du I du présent article ;
+>
+> 2° Au nombre, aux motifs et à la nature des mesures demandées en application du II ;
+>
+> 3° Au nombre d'adresses de services de communication au public en ligne concernées ;
+>
+> 4° Au nombre et à la nature des recommandations formulées à l'égard de l'autorité administrative ;
+>
+> 5° Au nombre de recours administratifs dont elle a été saisie, aux délais moyens d'instruction de ces recours et aux issues qui leur ont été réservées ;
+>
+> 6° Aux moyens nécessaires à l'amélioration de ses conditions d'exercice.
+>
+> IV.-Les adresses électroniques des services de communication au public en ligne faisant l'objet des demandes mentionnées aux I et II sont rendues publiques par l'autorité administrative dans un format ouvert soixante-douze heures après l'envoi de la notification ou de l'injonction, dans une liste unique mise à jour régulièrement.
+>
+> V.-Tout manquement aux obligations définies au présent article par la personne destinataire d'une notification ou d'une injonction de l'autorité administrative est puni des peines prévues au C du III de l'article 6.
+>
+> VI.-Les modalités d'application du présent article, notamment la désignation de l'autorité administrative compétente ainsi que le contenu et les modalités de présentation des messages d'avertissement mentionnés aux I et II, sont précisées par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
+
+*NOTA (source):* NOTA : Conformément au III de l'article 64 de la loi n° 2024-449 du 21 mai 2024, le IV du présent article, dans sa rédaction résultant de l'article 24 de la loi précitée, entre en vigueur le 1er janvier 2025.
+
+L'article 12 institue un dispositif administratif de lutte contre les sites frauduleux qui imitent l'interface d'un service existant pour obtenir des données personnelles ou des paiements (techniques couramment désignées comme de l'hameçonnage). Le I vise les services « manifestement conçus » pour commettre certaines infractions limitativement énumérées — articles 226-4-1, 226-18 et 323-1 du code pénal, article L. 163-4 du code monétaire et financier et escroquerie de l'article 313-1 du code pénal — au moyen d'une interface de nature à créer la confusion avec celle d'un service existant.
+
+La procédure est à deux étages. Au premier, sur constat d'un agent spécialement habilité, l'autorité administrative met en demeure l'éditeur identifiable de cesser les opérations et notifie simultanément l'adresse aux fournisseurs de navigateurs internet au sens du règlement (UE) 2022/1925, qui affichent à titre conservatoire, pendant sept jours, un message d'avertissement clair, lisible, unique et compréhensible renvoyant vers un site officiel ; l'éditeur dispose de cinq jours pour présenter ses observations, et les mesures cessent si le constat n'est plus valable. Au second (II), lorsque l'éditeur n'est pas identifiable ou que le constat demeure valable, l'autorité peut, par décision motivée, enjoindre aux fournisseurs d'accès et de systèmes de résolution de noms de domaine de bloquer l'accès, et aux navigateurs d'afficher un avertissement subordonnant l'accès à une confirmation explicite, pour trois mois, prolongeables deux fois six mois. Le II définit en outre le fournisseur de systèmes de résolution de noms de domaine, notion à laquelle renvoient les articles 10-1 et 11.
+
+Les garanties reposent sur une personnalité qualifiée désignée par la CNIL en son sein (III), qui contrôle le caractère justifié des mesures et la tenue de la liste des adresses, peut saisir le collège de la CNIL, enjoindre de mettre fin aux mesures et connaître de recours administratifs suspensifs ; elle publie un rapport annuel annexé au rapport public de la CNIL. Le IV impose la publication des adresses visées, en format ouvert, soixante-douze heures après la notification ; la NOTA précise que ce IV, dans sa rédaction issue de la loi n° 2024-449, est entré en vigueur le 1er janvier 2025. Le V sanctionne les destinataires défaillants par renvoi aux peines du C du III de l'article 6, et le VI renvoie à un décret en Conseil d'Etat pris après avis de la CNIL, qui désigne notamment l'autorité administrative compétente.
+
+### Article 13
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1067 du 30 septembre 1986 - art. 1 (M)
+
+L'article 13 clôt le chapitre III du titre Ier (« Régulation de la communication »). Selon la source, il a modifié l'article 1er de la loi n° 86-1067 du 30 septembre 1986, signalé comme modifié depuis (« (M) »). Il s'agit d'un article purement modificatif, sans période de vigueur propre dans la base LEGI ; les articles 10 à 12 du même chapitre, en vigueur, renvoient d'ailleurs à plusieurs reprises à cette loi (articles 2, 19 et 42-7).
